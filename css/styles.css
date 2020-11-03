@@ -1,0 +1,39 @@
+html, body {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto';
+    color: #212326;
+}
+
+h1 {
+    background-color: #4287f5;
+    margin: 0px;
+    padding: 15px;
+}
+
+nav {
+    width: 100%;
+    position: fixed;
+    background-color: #212326;
+}
+
+nav a {
+    color: white;
+    font-size: 20px;
+    padding: 0px 15px 0px 15px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    background-color: white;
+    color: #212326;
+}
+
+article {
+    padding: 15px;
+}
+
+footer {
+    text-align: center;
+    padding: 15px;
+}
