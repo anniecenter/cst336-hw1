@@ -33,7 +33,7 @@
             CST336 Internet Programming. 2020&copy; Center <br/>
             <strong>Disclaimer:</strong> The information on this webpage is used for academic purposes only.
             <br/>
-            <img src="img/csumb_logo.png" width="200px" alt="CSUMB Logo"/>
+            <img src="img/csumb_logo.png" width="200" alt="CSUMB Logo"/>
         </footer>
     </body>
 </html>
