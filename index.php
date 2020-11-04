@@ -1,9 +1,8 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta char="utf-8"/>
+        <meta charset="utf-8"/>
         <link href="css/styles.css" rel=stylesheet type="text/css"/>
-        <script type="text/javascript" src="app.js" charset="utf-8"></script>
     </head>
     <body>
         <h1>Programming Languages</h1>
