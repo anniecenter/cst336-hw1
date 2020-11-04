@@ -7,12 +7,15 @@ html, body {
 
 h1 {
     background-color: #4287f5;
+    position: fixed;
     margin: 0px;
     padding: 15px;
+    width: 100%;
 }
 
 nav {
     width: 100%;
+    top: 68px;
     position: fixed;
     background-color: #212326;
 }
@@ -31,9 +34,12 @@ nav a:hover {
 
 article {
     padding: 15px;
+    padding-top: 100px;
+    display: flex;
 }
 
 footer {
     text-align: center;
     padding: 15px;
 }
+
