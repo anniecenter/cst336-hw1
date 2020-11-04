@@ -7,7 +7,7 @@
     <body>
         <h1>Programming Languages</h1>
         <nav>
-            <a href="index.html">Home</a>
+            <a href="index.php">Home</a>
             <a href="java.html">Java</a>
             <a href="cpp.html">C++</a>
             <a href="cs.html">C#</a>
