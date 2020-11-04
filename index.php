@@ -1,6 +1,7 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
     <head>
+        <title>Home</title>
         <meta charset="utf-8"/>
         <link href="css/styles.css" rel=stylesheet type="text/css"/>
     </head>
@@ -32,7 +33,7 @@
             CST336 Internet Programming. 2020&copy; Center <br/>
             <strong>Disclaimer:</strong> The information on this webpage is used for academic purposes only.
             <br/>
-            <img src="img/CSUMB Logo 540 Bay Blue.png" width="200" alt="CSUMB Logo"/>
+            <img src="img/csumb_logo.png" width="200" alt="CSUMB Logo"/>
         </footer>
     </body>
 </html>
